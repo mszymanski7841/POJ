@@ -1,0 +1,5 @@
+Zadanie 2 - wartość stopni powinna pochodzić od użytkownika
+Zadanie 6 - warto stosować klauzule default
+Zadanie 8 - można od razu sortować malejąco z wykorzystaniem Arrays.sort(tab, Collections.reverseOrder()); Tylko wtedy int musi być obiektem, czyli deklaracja tablicy wyglądałaby tak: Integer[] tab = new Integer[3];
+
+Ocena 5/5
