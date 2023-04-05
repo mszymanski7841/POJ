@@ -1,0 +1,4 @@
+1. Polecam korzystać ze skrótu klawiszowego ctrl+alt+l do formatowania kodu
+2. Zwykle metodę main będziemy stosować na samej gorze, a metody realizujące jakieś zadania poniżej
+
+Ocena 5/5
