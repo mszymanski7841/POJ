@@ -1,0 +1,3 @@
+Cucumber->Ogórek
+Tomato->Pomidor
+Onion->Cebula
